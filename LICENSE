@@ -1,0 +1,16 @@
+MeetMind 會議助手
+Copyright © 2026 Jeff Wu (polk200276). All rights reserved.
+
+本軟體（包含原始碼、安裝檔、介面設計與說明文件）之著作權屬於 Jeff Wu (polk200276)，保留所有權利。
+未經著作權人書面授權，不得複製、修改、散布、出租、販售、再授權，或對本軟體進行反向工程、反編譯、反組譯。
+
+This software, including its source code, installers, user interface design and documentation,
+is proprietary. No part of it may be copied, modified, distributed, rented, sold, sublicensed,
+reverse engineered, decompiled or disassembled without prior written permission from the copyright holder.
+
+第三方元件 / Third-party components
+本軟體包含第三方開源元件（例如 Electron、React、whisper.cpp、Breeze-ASR-25 語音模型），
+其著作權屬於各自的作者，並依各自的授權條款使用；上述限制不適用於這些元件。
+This software includes third-party open-source components (such as Electron, React, whisper.cpp and
+the Breeze-ASR-25 speech model). They remain the property of their respective authors and are used
+under their own licenses; the restrictions above do not apply to them.

@@ -216,3 +216,7 @@ MeetMind 每分鐘檢查一次你指定的資料夾，裡面出現新的錄音�
 - AI 分析會把**逐字稿**送給你選擇的 AI 服務（Claude 或 OpenAI）。
 - 同步到 Notion 時，摘要與逐字稿會寫入你指定的 Notion 頁面。
 - 處理客戶或機敏內容前，請確認符合公司的資料使用規範。
+
+---
+
+Copyright © 2026 Jeff Wu (polk200276). All rights reserved.　版權所有，未經授權不得複製、修改、散布或反向工程。詳見 [LICENSE](LICENSE)。
